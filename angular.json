@@ -22,6 +22,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "facebook"
+    }
+  },
+  "defaultProject": "facebook",
+  "cli": {
+    "analytics": false
+  }
 }
